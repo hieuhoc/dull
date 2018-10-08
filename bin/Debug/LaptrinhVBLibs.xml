@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LaptrinhVBLibs</name>
+    </assembly>
+    <members>
+        <member name="T:LaptrinhVBLibs.clsBSoft">
+            <summary>
+            Laptrinhvb.net - Mr.Cùi bắp (Freelancer.Bsoft@gmail.com)
+            <para>Các lớp xử lý và nhận dạng chữ, số</para>
+            </summary>
+        </member>
+        <member name="M:LaptrinhVBLibs.clsBSoft.IdentifyContours(System.Drawing.Bitmap,System.Int32,System.Boolean,System.Drawing.Bitmap@,System.Drawing.Bitmap@,System.Collections.Generic.List{System.Drawing.Rectangle}@)">
+            <summary>
+            Method used to process the image and set the output result images.
+            </summary>
+            <param name="colorImage">Source color image.</param>
+            <param name="thresholdValue">Value used for thresholding.</param>
+            <param name="processedGray">Resulting gray image.</param>
+            <param name="processedColor">Resulting color image.</param>
+        </member>
+    </members>
+</doc>

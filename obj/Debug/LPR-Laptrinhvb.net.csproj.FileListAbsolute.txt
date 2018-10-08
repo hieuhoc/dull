@@ -1,0 +1,18 @@
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.exe.config
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.exe
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.pdb
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR_Laptrinhvb.FrmMain.resources
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR_Laptrinhvb.Properties.Resources.resources
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.csproj.GenerateResource.Cache
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.exe
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.pdb
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.csprojResolveAssemblyReference.cache
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.exe.config
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.exe
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.pdb
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.csprojResolveAssemblyReference.cache
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR_Laptrinhvb.FrmMain.resources
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR_Laptrinhvb.Properties.Resources.resources
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\obj\Debug\LPR-Laptrinhvb.net.csproj.GenerateResource.Cache
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.exe
+f:\Temp\Downloads_2015.12.01\LPR-Laptrinhvb.net - Version 1.0\LPR-Laptrinhvb.net\bin\Debug\LPR-Laptrinhvb.net.pdb
